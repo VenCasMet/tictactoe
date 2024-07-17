@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#yo{
+    color: rgb(210, 22, 47);
+    position: absolute;
+    left: 830px;
+    top: 9px;
+    font-size: 39px;
+    background:radial-gradient(rgb(40, 188, 181),rgb(19, 92, 70),rgb(181, 11, 116));
+    font-weight: bolder;
+    border-color: white;
+}
+
+#asd {
+    min-height: 100vh;
+    background-size: 50px 205px;
+    background: url("../ticatoca.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#play{
+    background-color: #ab37c8;
+    padding: 50px 105px;
+    border: none;
+    font-size: 3.2rem;
+    border-radius: 5px;
+    top: 500px;
+    cursor: pointer;
+}
+
+#play:hover{
+    padding: 60px 205px;
+    font-size: 4rem;
+    border-radius: 10px;
+    background-color: #d90893;
+    color: #000;
+}
+
