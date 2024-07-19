@@ -21,7 +21,7 @@ body{
 #asd {
     min-height: 100vh;
     background-size: 50px 205px;
-    background: url("../ticatoca.jpg");
+/*     background: url("../ticatoca.jpg"); */
     display: flex;
     justify-content: center;
     align-items: center;
