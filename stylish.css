@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    background: url("../ticatoca.jpg");
+}
+
 #yo{
     color: rgb(210, 22, 47);
     position: absolute;
